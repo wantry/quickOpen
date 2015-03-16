@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6FD05C9C-8F0A-4B81-A0B2-557643C91092</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QuickOpen</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3F7D2E993824B014A38A4DC390D62B255568C709</key>
+		<string>https://git.oschina.net/makerwuting/quickOpen.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QuickOpen.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3F7D2E993824B014A38A4DC390D62B255568C709</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/makerwuting/quickOpen.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3F7D2E993824B014A38A4DC390D62B255568C709</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3F7D2E993824B014A38A4DC390D62B255568C709</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QuickOpen</string>
+		</dict>
+	</array>
+</dict>
+</plist>
